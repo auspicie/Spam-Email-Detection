@@ -39,6 +39,7 @@ This project is licensed under the MIT License [MIT License](LICENSE).
 ### Author: Samsudeen Bankole
 
 Built with ❤️ using Streamlit and Scikit-learn.
+
 ⭐ If you found this project useful, don’t forget to star the repo and share it!
 
 
